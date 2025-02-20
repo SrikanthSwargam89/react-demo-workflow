@@ -1,4 +1,4 @@
-name: Deploy website
+name: react-job-artfact
 on:
   push:
     branches:

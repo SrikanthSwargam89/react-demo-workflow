@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: GitHub Actions Maven Build Example
+name: maven-job-artfacts
 
 on:
   workflow_dispatch:
